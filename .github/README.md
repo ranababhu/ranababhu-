@@ -1,5 +1,5 @@
 <p align="center">
-    <br><b>😫 𝗙𝗮𝗹𝗹𝗲𝗻 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
+    <br><b>fmmusic24 </b><br>
 </p>
 <p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/89cbc8b8760b6abff430f.jpg"></a></p>
 
@@ -76,7 +76,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/AnonymousR1025/FallenMusic # Clone your repo.
+git clone https://github.com/ranababhu/FallenMusic # Clone your repo.
 cd FallenMusic
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
@@ -85,7 +85,7 @@ python3 main.py # Run the bot
 ```
 
 ### ᴄʀᴇᴅɪᴛs 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025): Developer
+- [ranababhu](https://github.com/ranababhu): Developer
 - [Fallen Music Bot](https://telegram.me/fallen_music_bot): Test Bot
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
